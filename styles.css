@@ -1,0 +1,24 @@
+.blue-velvet {
+    background-color: #4B0082; /* Indigo */
+    color: #FFFFFF; /* White text */
+}
+
+.dark-blue {
+    background-color: #1E90FF; /* Dodger Blue */
+    color: #FFFFFF;
+}
+
+.light-blue {
+    background-color: #ADD8E6; /* Light Blue */
+    color: #000000;
+}
+
+.gold {
+    background-color: #FFD700; /* Gold */
+    color: #000000;
+}
+
+.purple {
+    background-color: #800080; /* Purple */
+    color: #FFFFFF;
+}
